@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "51161878659",
+    "firebase_url": "https://creative-ae1e1-default-rtdb.firebaseio.com",
+    "project_id": "creative-ae1e1",
+    "storage_bucket": "creative-ae1e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51161878659:android:ad64fade722adbca594bb6",
+        "android_client_info": {
+          "package_name": "com.nexton.creative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51161878659-32oijroo9vdmsmjsur78h8iuuju6ssqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmld6qcPQ6S30NED0eX68LZgY9fm-bD10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51161878659-32oijroo9vdmsmjsur78h8iuuju6ssqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51161878659:android:b641e6d136700066594bb6",
+        "android_client_info": {
+          "package_name": "com.nexton.creative_tablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51161878659-32oijroo9vdmsmjsur78h8iuuju6ssqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmld6qcPQ6S30NED0eX68LZgY9fm-bD10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51161878659-32oijroo9vdmsmjsur78h8iuuju6ssqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
